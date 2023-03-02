@@ -37,3 +37,10 @@ input {
 button {
   cursor: pointer;
 }
+
+i {
+  font-size: 5rem;
+  width: 5rem;
+  height: 5rem;
+  color: red;
+}
