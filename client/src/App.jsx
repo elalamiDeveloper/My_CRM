@@ -1,5 +1,7 @@
+import { Login } from './pages';
+
 const App = () => {
-  return <AppContainer>OK</AppContainer>;
+  return <Login />;
 };
 
 export default App;
